@@ -1,0 +1,10 @@
+
+.form-1{
+    width:579px;
+    height:570px;
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    box-shadow: -11px 2px 12px 8px rgba(243,236,236,0.71);
+-webkit-box-shadow: -11px 2px 12px 8px rgba(243,236,236,0.71);
+-moz-box-shadow: -11px 2px 12px 8px rgba(243,236,236,0.71);
+}
