@@ -15,11 +15,11 @@ export default function Signin() {
          <div className="form">
              <p className="heading">Sign In</p>
              <form>
-                 <label>Email Address</label><br></br>
+                 <label className="label">Email Address</label><br></br>
                  <div className="input-container">
                  <input className="input-field" placeholder="John Doe" type="email"></input>
                  </div>
-                 <label>Password</label><br></br>
+                 <label className="label">Password</label><br></br>
                  <div className="input-container">                 
                      <input className="input-field"placeholder="******"></input>
                      </div>

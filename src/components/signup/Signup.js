@@ -16,23 +16,23 @@ export default function Signup() {
          <div className="form-1">
              <p className="heading">Sign Up as Role Name appears here</p>
              <form>
-                 <label>Name</label><br></br>
+                 <label className="label">Name</label><br></br>
                  <div className="input-container">
                  <input className="input-field" placeholder="John Doe" type="email"></input>
                  </div>
-                 <label>Email Address</label><br></br>
+                 <label className="label">Email Address</label><br></br>
                  <div className="input-container">
                  <input className="input-field" placeholder="johndoe@gmail.com" type="email"></input>
                  </div>
-                 <label>Phone Number</label><br></br>
+                 <label className="label">Phone Number</label><br></br>
                  <div className="input-container">
                  <input className="input-field" placeholder="+91 9876543210" type="email"></input>
                  </div>
-                 <label>Create Password</label><br></br>
+                 <label className="label">Create Password</label><br></br>
                  <div className="input-container">                 
                      <input className="input-field"placeholder="*********"></input>
                      </div>
-                     <label>Confirm Password</label><br></br>
+                     <label className="label">Confirm Password</label><br></br>
                  <div className="input-container">                 
                      <input className="input-field"placeholder="*********"></input>
                      </div>
